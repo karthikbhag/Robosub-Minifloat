@@ -26,8 +26,8 @@ const char* ssid = "ESP32-Minifloat-Point";
 const char* password = "RubberDuckies";
 
 // Motor control pins
-const int MOTOR_DIR = 21;
-const int MOTOR_PWM = 19;
+// const int MOTOR_DIR = 21;
+// const int MOTOR_PWM = 19;
 // Motor control pins
 const int MOTOR_DIR = 21;     // Direction control
 const int MOTOR_PWM = 19;     // Strength control via PWM
